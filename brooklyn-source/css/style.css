@@ -1,12 +1,32 @@
-/* 
+.fonted {
+	font-family: "Times New Roman";
+}
 
-## Style Hints: 
+.title {
+	margin-left: 40px;
+	font-size: 19px;
+	color: #C2C2C2;
+}
 
-Body Font Size = 12px
-	 Line Height = 17px
-	 Font Family = "Times New Roman", serif
-	 Font Color = #656565
+.topics {
+	margin-left: 40px;
+}
 
-Link Hover Color = #20222a
 
-*/
+.collection {
+	font-size: 13px;
+	color: #A4A5A6;
+}
+
+
+
+.date {
+	font-size: 10px;
+	color: #22CBFF;
+}
+
+
+
+.paragraphs {
+	font-size: 12px;
+}
